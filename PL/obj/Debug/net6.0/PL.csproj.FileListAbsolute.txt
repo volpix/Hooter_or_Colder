@@ -1,0 +1,15 @@
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.csproj.AssemblyReference.cache
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.AssemblyInfoInputs.cache
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.AssemblyInfo.cs
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\bin\Debug\net6.0\PL.exe
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\bin\Debug\net6.0\PL.deps.json
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\bin\Debug\net6.0\PL.runtimeconfig.json
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\bin\Debug\net6.0\PL.dll
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\bin\Debug\net6.0\PL.pdb
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.dll
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\refint\PL.dll
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.pdb
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\PL.genruntimeconfig.cache
+C:\Users\Kevin.Rangel\Desktop\Repositorios\COFEPRIS\hotter or colder\PL\obj\Debug\net6.0\ref\PL.dll
